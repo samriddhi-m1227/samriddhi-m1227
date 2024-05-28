@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Descriptive/Inferential Statistics using Python](https://colab.research.google.com/drive/1awdYtLdtJYKPMI8SXdDb80qBTO4RUC7j?usp=drive_link)
 
-- 🌱 I’m currently learning **Data Sceience Internship Program at Oeson**
+- 🌱 I’m currently learning **at Oeson's Data Science Internship program**
 
 - 📫 How to reach me **samriddhimatharu1@gmail.com**
 
