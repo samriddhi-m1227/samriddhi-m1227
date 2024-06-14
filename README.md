@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samriddhi Matharu</h1>
 <h3 align="center">Student at San Jose State University studying B.S Data Science</h3>
 
-- 🔭 I’m currently working on [Descriptive/Inferential Statistics using Python](https://colab.research.google.com/drive/1awdYtLdtJYKPMI8SXdDb80qBTO4RUC7j?usp=drive_link)
 
 - 🌱 I’m currently learning **at Oeson's Data Science Internship Program**
 
