@@ -2,7 +2,7 @@
 <h3 align="center">Student at San Jose State University studying B.S Data Science</h3>
 
 
-- 🌱 I’m currently learning **at Oeson's Data Science Internship Program**
+- 🌱 I’m currently **a SWE Fellow at HeadStarter AI !**
 
 - 📫 How to reach me **samriddhimatharu1@gmail.com**
 
