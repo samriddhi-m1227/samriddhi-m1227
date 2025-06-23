@@ -40,12 +40,21 @@
 
 ### 🛠️ Languages
 
-- Python, Java, SQL, HTML/CSS, JavaScript
+- Python
+- Java
+- SQL
+- HTML/CSS
+- JavaScript
 
 ### 🧰 Tools & Frameworks
 
-- Power BI, Tableau, AWS, Pandas, NumPy, Seaborn, React, Figma, Git
-
+- AWS
+- Pandas & NumPy
+- Scikit-learn
+- Jupyter Notebook
+- Power BI
+- Tableau
+- Git
 ---
 
 <h3 align="left">📈 GitHub Stats:</h3>
