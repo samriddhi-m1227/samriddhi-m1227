@@ -2,7 +2,7 @@
 <h3 align="center">Student at San Jose State University studying B.S Data Science</h3>
 
 
-- 🌱 I’m currently **a SWE Fellow at HeadStarter AI !**
+- 🌱 I’m currently **Data Governanace and Management Intern (Analytics and Intellegent Automation) @Cox Enterprises**
 
 - 📫 How to reach me **samriddhimatharu1@gmail.com**
 
